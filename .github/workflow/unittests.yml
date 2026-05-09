@@ -1,1 +1,3 @@
-
+git add .github/workflows/unittests.yml
+git commit -m "ci: add GitHub Actions workflow for basic CI"
+git push origin task-1
